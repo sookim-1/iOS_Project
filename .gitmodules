@@ -1,3 +1,6 @@
 [submodule "iOS_Debug"]
 	path = iOS_Debug
 	url = https://github.com/sookim-1/iOS_Debug.git
+[submodule "iOS_SwiftUI"]
+	path = iOS_SwiftUI
+	url = https://github.com/sookim-1/iOS_SwiftUI.git
